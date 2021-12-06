@@ -26,7 +26,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [**How To Make A Discord ModMail Bot Without Coding Using Replit.com!!**](https://youtu.be/jaMAGFMeJrM)
+- [**How To Make A Anti Ghost Ping Detector Bot Without Coding**](https://www.youtube.com/watch?v=z0TN7aPdHy4)
 - [**How to make a giveaway bot on discord! | No coding required!**](https://youtu.be/l7ZFRHQ527k)
 <!-- YOUTUBE:END -->
 
