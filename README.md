@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anthony van Tonder [Click Here To Follow Me On YouTube][youtube]
+### Hi there 👋 I am Anthony van Tonder
 
 - 🔭 I’m currently working on learning full discord.js
 - 🌱 I develop cool bots for discord
