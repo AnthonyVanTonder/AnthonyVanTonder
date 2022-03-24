@@ -31,7 +31,7 @@
 <!-- YOUTUBE:END -->
 
 
-[![AnthonyVTdev GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthonyVTdev)](https://github.com/anuraghazra/github-readme-stats)
+[![AnthonyVTdev GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthonyVanTonder)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://www.youtube.com/channel/UC0oS507eiiBAoU4dYLftcIw
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
